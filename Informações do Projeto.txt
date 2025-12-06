@@ -1,0 +1,12 @@
+Integrantes do grupo:
+- Lucas Akira Da Silva Teruya RM566268
+- Pedro Dalmas Batista e Souza RM562462
+- Alan Carlos Bernardes de Lima RM563938
+- Fabrício Alves Magoga RM565159
+- Joao Vitor Benedet RM565026
+
+Link do Vídeo Pitch:
+https://youtu.be/WrPPwJ_AHos?si=H0G5XzWHnnQwT_3P
+
+Link do Deploy:
+https://feira-sigma.vercel.app/
